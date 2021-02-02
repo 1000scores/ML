@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "/usr/local/bin/python3",
+    "files.associations": {
+        "iosfwd": "cpp"
+    },
+    "jupyter.jupyterServerType": "local"
 }
